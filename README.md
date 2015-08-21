@@ -2,7 +2,12 @@
 
 Learn the R statistical programming language, the lingua franca of data science. 
 
+Provider: edX + Microsoft
+
+Tools: R Studio
+
 URL: https://www.edx.org/course/introduction-r-programming-microsoft-dat204x
+
 
 1. Basics
 2. Vectors
