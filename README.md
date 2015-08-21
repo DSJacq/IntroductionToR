@@ -2,7 +2,7 @@
 
 Learn the R statistical programming language, the lingua franca of data science. 
 
-Provider: edX + Microsoft
+Provider: edX + Microsoft 2015
 
 Tools: R Studio
 
