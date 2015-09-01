@@ -35,7 +35,6 @@ earnings > expenses
 
 
 # Summing and subtracting vectors
-# A_vector and B_vector have already been defined for you
 A_vector <- c(1, 2, 3)
 B_vector <- c(4, 5, 6)
 # Take the sum of A_vector and B_vector: total_vector
