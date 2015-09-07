@@ -15,3 +15,4 @@ URL: https://www.edx.org/course/introduction-r-programming-microsoft-dat204x
 4. Factors
 5. Lists
 6. Data Frames
+7. Graphics
