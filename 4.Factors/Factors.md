@@ -1,4 +1,4 @@
-### Factors
+# Factors
 
 
 r-project: https://cran.r-project.org/doc/manuals/R-intro.html#Factors
