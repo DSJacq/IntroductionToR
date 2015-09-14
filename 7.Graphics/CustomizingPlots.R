@@ -82,3 +82,6 @@ hist(movies$runtime,
      xlab = "Runtime [-]",
      col = "cyan",
      border = "red")
+
+
+
